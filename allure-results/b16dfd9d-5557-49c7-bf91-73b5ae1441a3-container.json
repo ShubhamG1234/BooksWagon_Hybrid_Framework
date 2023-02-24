@@ -1,0 +1,1 @@
+{"uuid":"b16dfd9d-5557-49c7-bf91-73b5ae1441a3","name":"testcase.WishList_Test.setUp","children":["2df21ab2-a4dc-4ec3-b99a-bb4c01ac7bdf"],"description":"","befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1676518337811,"stop":1676518344644}],"afters":[],"start":1676518337809,"stop":1676518344645}
